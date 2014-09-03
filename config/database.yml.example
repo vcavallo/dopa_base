@@ -1,0 +1,19 @@
+# Create a database.yml file with your own information and add that to .gitignore
+# leave this file in the repo for others' reference
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: #app_name_development
+  pool: 5
+  #username: your postgres username
+  #password: your password, if necessary
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: #app_name_test
+  pool: 5
+  #username: your postgres username
+  #password: your password, if necessary
+
