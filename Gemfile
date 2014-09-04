@@ -40,6 +40,7 @@ group :development, :test do
   gem 'guard'
   gem 'guard-rspec', require: false
   gem 'pry'
+  gem 'better_errors'
 end
 
 group :test do
