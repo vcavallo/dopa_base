@@ -1,9 +1,10 @@
 ## After cloning:
 
-1. create a database.yml file, following the database.yml.example file
-2. add database.yml to .gitignore
-3. create an application.yml file, following the application.yml.example file
-4. change app name in a bunch of places, see below:
+1. bundle
+2. create a database.yml file, following the database.yml.example file
+3. add database.yml to .gitignore
+4. create an application.yml file, following the application.yml.example file
+5. change app name in a bunch of places, see below:
 
 ## Places to change app name:
 
